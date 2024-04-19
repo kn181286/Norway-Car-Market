@@ -8,6 +8,7 @@ This Power BI Dashboard show the sales, revenue, variants, sales trend over time
 ![Card Visuals](https://github.com/kn181286/Norway-Car-Market/assets/8820321/b635dfd8-b1ca-48f4-a085-eaebc33ffcea)
 
 3- Market Value for each car brand.
+
 ![Market Share](https://github.com/kn181286/Norway-Car-Market/assets/8820321/c563ad31-039d-4ec0-85c0-edbd4dfb22f4)
 
 4- Top 5 models sold for each car brand.
